@@ -17,3 +17,11 @@ print(kata)
 Output:
 dicoding
 """
+
+#rstrip
+print("Dicoding          ".rstrip())
+
+"""
+Output:
+Dicoding
+"""
