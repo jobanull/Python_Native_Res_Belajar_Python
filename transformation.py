@@ -33,3 +33,11 @@ print("           Dicoding".lstrip())
 Output:
 Dicoding
 """
+
+#strip
+print("         Dicoding          ".strip())
+
+"""
+Output:
+Dicoding
+"""
