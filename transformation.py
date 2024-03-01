@@ -41,3 +41,20 @@ print("         Dicoding          ".strip())
 Output:
 Dicoding
 """
+
+#Jika ingin menghilangkan karakter selain whitespace, Anda bisa mengikuti contoh berikut.
+kata = 'CodeCodeDicodingCodeCode'
+print(kata.strip("Code"))
+
+"""
+Output:
+Dicoding
+"""
+
+# startswith()
+print('Dicoding Indonesia'.startswith('Dicoding'))
+
+"""
+Output:
+True
+"""
