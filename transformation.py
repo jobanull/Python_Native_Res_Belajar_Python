@@ -25,3 +25,11 @@ print("Dicoding          ".rstrip())
 Output:
 Dicoding
 """
+
+#lstrip
+print("           Dicoding".lstrip())
+
+"""
+Output:
+Dicoding
+"""
